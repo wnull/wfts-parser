@@ -1,0 +1,14 @@
+{
+	"name": "wnull/wfts-parser",
+	"description": "Парсер достижений с Warface TrueSight.",
+	"version": "1.0.0",
+	"license": "MIT",
+	"require": {
+		"php": "^7.4 || ^8.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"WarfaceTrueSight\\": "src/"
+		}
+	}
+}
